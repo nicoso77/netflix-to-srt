@@ -1,4 +1,5 @@
-# netflix-to-srt
+netflix-to-srt
+==============
 1. Get the subtitles from netflix
 2. Convert them into .srt
 
